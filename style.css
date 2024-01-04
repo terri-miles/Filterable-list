@@ -1,0 +1,12 @@
+.content-box{
+    width: 100%;
+    margin: 20px 0;
+}
+#filterInput{
+    width: 600px;
+    outline: none;
+}
+ul >li > a{
+    text-decoration: none;
+    color: #27b6f3;
+}
